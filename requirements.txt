@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+nltk
+transformers
+torch
+PyMuPDF
+tabula
